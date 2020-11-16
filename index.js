@@ -1,1 +1,2 @@
-const name = "dan";
+const name = "Daniel";
+const favouriteColour = "Red";
